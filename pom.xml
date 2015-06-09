@@ -70,7 +70,6 @@
     <module>aws-java-sdk-directory</module>
     <module>aws-java-sdk-efs</module>
     <module>aws-java-sdk</module>
-    <module>aws-java-sdk-osgi</module>
     <module>aws-java-sdk-core</module>
 </modules>
 
